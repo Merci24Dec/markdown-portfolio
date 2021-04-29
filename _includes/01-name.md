@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# 👋 Hey viewer, you have reached to Akash's portfolio.
+## Hello I'm Akash Dubey.
